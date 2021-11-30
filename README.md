@@ -12,7 +12,7 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 5. Calculate the percentage of votes each candidate won.
 6. Determine the winner of the election based on popular vote.
 
-![Expected Output](./Images/Data-Module-3-Challenge.png)
+![election_analysis txt](https://user-images.githubusercontent.com/93852380/144137049-29fe7466-dd7d-42ab-a6e6-4bd8bc51378e.png)
 
 # Resources
 * Data Source: election_results.csv
@@ -23,7 +23,7 @@ A Colorado Board of Elections has requested to complete the election audit of a 
     - Total_Votes: 369,711
 
 ## Results as recorded in my election_analysis.txt file
-![my analysis](./Images/election_analysis.txt.png)
+![Total votes and Election Winner](https://user-images.githubusercontent.com/93852380/144137074-a80b5248-6bad-4616-ac07-ea9ba39cce5e.png)
 
 ## Deliverable 3: Analysis of the Election Audit
 
